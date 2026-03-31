@@ -32,7 +32,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
     "@hapi/boom": "latest",
-    "@whiskeysockets/baileys": "npm:xmd-baileys@latest",
+    "@whiskeysockets/baileys": "npm:xmd-baileys@1.0.35",
     "adm-zip": "latest",
     "axios": "^1.2.5",
     "body-parser": "latest",
@@ -60,10 +60,11 @@
     "pm2": "latest",
     "sequelize": "latest",
     "sharp": "^0.32.6",
-    "sqlite3": "latest",
+    "sqlite3": "^5.1.7",
     "stream": "latest",
     "util": "latest",
-    "wa-sticker-formatter": "latest",
-    "xmd-baileys": "^1.0.31"
+    "wa-sticker-formatter": "^4.4.4",
+    "xmd-baileys": "^1.0.35",
+    "yt-search": "^2.13.1"
   }
 }
